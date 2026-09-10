@@ -1,0 +1,62 @@
+[
+  {
+    "id": "uuid-sbi-kolkata",
+    "name": "SBI Kolkata Main Branch",
+    "partnerType": "psb",
+    "status": "active",
+    "latitude": 22.5512,
+    "longitude": 88.3524,
+    "address": "Park Street, Kolkata",
+    "npaRatioPercent": 3.2
+  },
+  {
+    "id": "uuid-hdfc-bbd",
+    "name": "HDFC Bank BBD Bagh Branch",
+    "partnerType": "private",
+    "status": "active",
+    "latitude": 22.5726,
+    "longitude": 88.3512,
+    "address": "BBD Bagh, Kolkata",
+    "npaRatioPercent": 1.8
+  },
+  {
+    "id": "uuid-pnb-saltlake",
+    "name": "Punjab National Bank Salt Lake",
+    "partnerType": "psb",
+    "status": "active",
+    "latitude": 22.5804,
+    "longitude": 88.4378,
+    "address": "Sector V, Salt Lake, Kolkata",
+    "npaRatioPercent": 4.1
+  },
+  {
+    "id": "uuid-bob-howrah",
+    "name": "Bank of Baroda Howrah Branch",
+    "partnerType": "psb",
+    "status": "active",
+    "latitude": 22.5855,
+    "longitude": 88.3415,
+    "address": "Howrah Station Road, Howrah",
+    "npaRatioPercent": 2.9
+  },
+  {
+    "id": "uuid-icici-gariahat",
+    "name": "ICICI Bank Gariahat Branch",
+    "partnerType": "private",
+    "status": "active",
+    "latitude": 22.5194,
+    "longitude": 88.3667,
+    "address": "Gariahat, Kolkata",
+    "npaRatioPercent": 2.1
+  },
+  {
+    "id": "uuid-canara-alipore",
+    "name": "Canara Bank Alipore Branch",
+    "partnerType": "psb",
+    "status": "inactive",
+    "latitude": 22.5312,
+    "longitude": 88.3315,
+    "address": "Alipore, Kolkata",
+    "npaRatioPercent": 2.5
+  }
+]

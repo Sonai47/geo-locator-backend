@@ -1,0 +1,38 @@
+[
+  {
+    "partnerId": "uuid-sbi-kolkata",
+    "schemeId": "scheme-mcf-001",
+    "totalQuotaAmount": 1000000,
+    "utilizedAmount": 400000
+  },
+  {
+    "partnerId": "uuid-hdfc-bbd",
+    "schemeId": "scheme-mcf-001",
+    "totalQuotaAmount": 2000000,
+    "utilizedAmount": 1200000
+  },
+  {
+    "partnerId": "uuid-pnb-saltlake",
+    "schemeId": "scheme-mcf-001",
+    "totalQuotaAmount": 500000,
+    "utilizedAmount": 500000
+  },
+  {
+    "partnerId": "uuid-bob-howrah",
+    "schemeId": "scheme-mcf-001",
+    "totalQuotaAmount": 800000,
+    "utilizedAmount": 300000
+  },
+  {
+    "partnerId": "uuid-icici-gariahat",
+    "schemeId": "scheme-other-999",
+    "totalQuotaAmount": 1500000,
+    "utilizedAmount": 200000
+  },
+  {
+    "partnerId": "uuid-canara-alipore",
+    "schemeId": "scheme-mcf-001",
+    "totalQuotaAmount": 1000000,
+    "utilizedAmount": 100000
+  }
+]
